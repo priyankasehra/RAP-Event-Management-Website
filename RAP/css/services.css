@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    margin-top: 2%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163; 
+    font-size: .9rem;
+}
+
+
+
+
+/* headings */
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.25rem;
+    word-spacing: 5px;
+}
+
+.h2-heading-1{
+    margin-top: 5%;
+}
+/* ................... */
+
+
+.services-para{
+    margin-top: 1.2%;
+    padding-left: 9.5%;
+    padding-right: 9.5%;
+}
+
+
+/* service-image-formatting for group 1 */
+.services-img-format-1{
+    position: relative;
+    margin-top: 3%;
+    margin-bottom: 33%;
+}
+
+.services01{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+.services02{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    
+}
+
+.services03{
+    width: 20%;  
+    display: inline-block;
+    position: absolute;
+    right: 415px;
+}
+
+.services04{
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    right: 70px;  
+}
+/* ................... */
+
+/* service-image-formatting for group 2 */
+.services-img-format-2{
+    position: relative;
+    margin-top: 3%;
+    margin-bottom: 33%;
+
+}
+
+.services05{
+    width: 20%;
+    height: 403px;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+.services06{
+    width: 20%;
+    height: 404px;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    
+}
+
+.services07{
+    width: 20%;  
+    height: 402px;
+    display: inline-block;
+    position: absolute;
+    right: 415px;
+}
+
+.services08{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    right: 70px;  
+}
+/* ................... */
+
+/* service-image-formatting for group 3 */
+.services-img-format-3{
+    position: relative;
+    margin-top: 3%;
+    margin-bottom: 33%;
+
+}
+
+.services09{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+.services10{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    
+}
+
+.services11{
+    width: 20%;  
+    display: inline-block;
+    position: absolute;
+    right: 415px;
+}
+
+.services12{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    right: 70px;  
+}
+/* ................... */
+
+
+/* service-image-formatting for group 4 */
+.services-img-format-4{
+    position: relative;
+    margin-top: 3%;
+    margin-bottom: 33%;
+
+}
+
+.services13{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+.services14{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    
+}
+
+.services15{
+    width: 20%;  
+    display: inline-block;
+    position: absolute;
+    right: 415px;
+}
+
+.services16{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    right: 70px;  
+}
+/* ................... */
+
+
+
+.under{
+    text-decoration: underline;
+    
+    color: #B31459;
+    word-spacing: 2.5px;
+}

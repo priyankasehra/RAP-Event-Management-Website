@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 2%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163;
+    font-size: .8rem;
+    
+} 
+
+/* para-formatting */
+.feedback-para{
+    margin: 0 8% 0 8%;
+
+}
+
+.para{
+    margin: 2% auto 2% auto;
+}
+/* ......................... */
+
+/* headings */
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.25rem;
+    font-weight: 590;
+    margin: 3% auto 2.5% auto;
+}
+
+h3{
+    font-family: 'Libre Baskerville', serif;
+    font-size: .6rem;
+    letter-spacing: 2.5px;
+    word-spacing: 3px;
+    margin-top: 2%;
+    
+}
+
+.h3-formating{
+    margin-bottom: 3.5%;
+}
+/* ................... */
+
+
+hr{
+    width: 80% fit-content;
+    margin: 3% auto 3% auto;
+    border-color: #bbb;
+    border-style: dotted;
+} 
+
+
+/* images */
+.feedback-mai-pic{
+    width: 100%;
+    padding-top: 43px; 
+}
+
+.feedback-pic1{
+    width: 100%;
+}
+
+.feedback-pic2{
+    width: 70%;
+}
+
+.feedback-pic3{
+    width: 75%;
+}
+/* ................... */

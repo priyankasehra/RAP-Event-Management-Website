@@ -1,0 +1,71 @@
+
+/* body */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 2%;
+    
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163;    
+}
+/* ................... */
+
+
+/* headings */
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.25rem;
+    margin-top: 45px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* ................... */
+
+
+
+/* address formating */
+.address-main{
+   position: relative;
+   margin-bottom: 10%;
+}
+
+.priyanka-address{
+    display: inline-block;
+    position: absolute;
+    left: 400px;
+}
+
+.abhishek-address{
+    display: inline-block;
+    position: absolute;
+    left: 700px;
+}
+
+.riha-address{
+    display: inline-block;
+    position: absolute;
+    left: 1000px;    
+}
+
+.City-name{
+font-weight: bolder;
+letter-spacing: 1px;
+color: #B31459;
+}
+
+
+/* contact-email formating */
+.rap-emails{
+  margin: .5% auto .8% auto;
+}
+
+.rap-contact-way{
+    margin: .6% auto 5.8% auto;
+}
+/* ................... */
+

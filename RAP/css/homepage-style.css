@@ -1,0 +1,272 @@
+
+/* backgroud-image */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.top-container{
+    padding-top: 60px; 
+}
+
+
+.content-area{
+    height: 100%;
+    display: flex;
+    position: absolute;
+    top: 350px;
+    right: 100px;       
+}
+
+.content{
+    text-align: center;
+}
+
+.content h1{
+    font-size: 80px;
+    color: #fff;
+    font-family: 'Dancing Script', cursive;
+    line-height: .9;
+    
+}
+.content p{
+    font-size: 50px;
+    font-family: 'Sacramento', cursive;
+    color: #fff;
+}
+/* ................... */
+
+
+
+
+body{
+    margin-top: 2%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163 ;
+    
+}
+
+
+
+
+/* headings */
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 4.25rem;
+    font-weight: 400;
+}
+
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.25rem;
+}
+
+h3{
+    font-family: 'Libre Baskerville', serif;
+}
+/* ................... */
+
+
+
+
+hr{
+    width: 50%;
+    margin: 2% auto 2% auto;       
+    border-color:  #EEEEEE;
+    border-style: dotted;
+}
+
+/* top container formating */
+.top-container{
+    margin-bottom: 5%;
+}
+.top-container h3{
+    font-family: 'Sacramento', cursive;
+    font-size: 1.50rem;
+    margin: 1.5% auto 2% auto;
+}
+/* ................... */
+
+
+/*  portfolio para formating */
+.portfolio{
+     
+    width: 100%;
+    
+}
+
+.portfolio-para{
+    background-color: #F0E4D7;
+    width: 37%;
+    height: 570px;
+    margin-left: 95px;
+    
+}
+
+.portfolio-para h1{
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+
+.portfolio-para p{
+    line-height: 1.8;
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 35px;
+    font-size: 21px;
+    font-weight: 300;
+    word-spacing: 3px;
+    margin-bottom: 50px;
+}
+
+.portfolio-pic{
+    float: right;
+    width: 49.5%; 
+    margin-right: 120px;
+   
+ }
+ /* ................... */
+
+
+/*  founder para formating */
+.founder{
+ 
+   width: 100%;
+  
+   position: relative;
+   
+}
+
+.founder-para{
+    background-color: #197163;
+    color: #FFF;
+    height: 571px;
+    clear: left;
+    width: 45%; 
+    display:inline-block;
+    position:absolute;
+    right:120px;
+    top:130px; 
+   
+}
+
+.founder-para h1{
+    padding-top: 9%;
+    padding-bottom: 2%;
+}
+
+.founder-para p{
+    line-height: 1.8;
+    text-align: left;
+    margin-left: 35px;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 300;
+    word-spacing: 3px;
+    margin-bottom: 30px;        
+}
+
+.founder-pic{
+    margin-left: 100px;
+    margin-right: 45px;
+    width: 60%;
+    height: 600px;
+    text-align: left;
+    float: left;    
+}
+
+ /* ................... */
+
+
+/*  founder para formating */
+ .services{
+    margin-top: 160px;
+    width: 100%;
+    
+}
+
+.services-para{
+    background-color: #F0E4D7;
+    width: 37%;
+    height: 570px;
+    margin-left: 100px;
+    
+}
+
+.services-para h1{
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+
+.services-para p{
+    line-height: 1.8;
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 35px;
+    font-size: 21px;
+    font-weight: 300;
+    word-spacing: 3px;
+    margin-bottom: 20px;
+}
+
+ .services-pic{
+    float: left;
+    width: 40%;
+   
+   
+}
+/* ................... */
+
+
+/* feedback para formating */
+.feedback{
+   
+    position: relative;
+   
+}
+
+
+.feedback-para{
+    background-color: #197163;
+    color: #FFF;
+    height: 570px;
+    clear: left;
+    width: 45%; 
+    display:inline-block;
+    position:absolute;
+    right:120px;
+    top:-630px; 
+   
+}
+
+.feedback-para h1{
+    padding-top: 9%;
+    padding-bottom: 2%;
+}
+
+.feedback-para p{
+    line-height: 1.8;
+    text-align: left;
+    margin-left: 35px;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 300;
+    word-spacing: 3px;
+    margin-bottom: 50px;        
+}
+
+.feedback-pic{
+   
+    float: right;
+    width: 40%;
+    margin-left: 30px;
+}
+/* ................... */
+ 
+
+
+
+ 

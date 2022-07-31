@@ -1,0 +1,279 @@
+/* backgroud-image */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.banner-area{
+    margin-top: 70px; 
+}
+.content-area{
+    height: 100%;
+    display: flex;
+    position: absolute;
+    top: 500px;
+    left: 200px;       
+}
+
+.content{
+    text-align: center;
+}
+
+.content h1{
+    font-size: 100px;
+    color: #fff;
+    font-family: 'Sacramento', cursive;
+    line-height: .9;
+    font-weight: 50;
+    
+}
+/* ................... */
+
+
+body{
+    margin-top: 2%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163 ;   
+}
+/* ................... */
+
+
+
+/* headings */
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.25rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+/* ................... */
+
+
+
+/* .paragraph{} */    
+.menue-button{
+   margin-bottom: 50px;
+   margin-top: 25px;
+}
+
+.para-exp{
+    color:#B31459;
+    text-decoration: underline;
+}
+/* ................... */
+
+
+/* hr */
+hr{
+    width: 50%;
+    margin: 3% auto 3% auto;
+    border-color: #bbb;
+    border-style: dotted;
+}
+/* ................... */
+
+
+
+/* image-format */
+.image-format{
+   position: relative;
+   padding-bottom: 90%;
+   font-size: .7rem;
+   letter-spacing: .8px;
+}
+/* ................... */
+
+
+/* menu image-para formating */
+.food01-pic{
+    width: 20%;
+    height: 403px;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+.menu-name-1{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    left: 185px;
+
+}
+
+.food02-pic{
+    width: 20%;
+    height: 403px;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    
+}
+
+.menu-name-2{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    left: 515px;
+}
+
+.food03-pic{
+    width: 20%;
+    height: 403px;
+    display: inline-block;
+    position: absolute;
+    right: 415px;
+}
+
+.menu-name-3{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    right: 500px;
+}
+
+.food04-pic{
+    width: 20%;
+    height: 403px;
+    display: inline-block;
+    position: absolute;
+    right: 70px;  
+}
+
+.menu-name-4{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    right: 145px;
+   
+}
+
+
+.food05-pic{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 470px;  
+    height: 405px;
+}
+
+.menu-name-5{
+    display: inline-block;
+    position: absolute;
+    top: 895px;
+    left: 185px;
+    
+
+}
+
+.food06-pic{
+    width: 20%;
+    height: 405px;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    top: 470px;
+    
+}
+
+.menu-name-6{
+    display: inline-block;
+    position: absolute;
+    top: 895px;
+    left: 545px;
+}
+
+.food07-pic{
+    width: 20%;
+    height: 405px;
+    display: inline-block;
+    position: absolute;
+    right: 415px;
+    top: 470px;   
+}
+
+.menu-name-7{
+    display: inline-block;
+    position: absolute;
+    top: 895px;
+    right: 500px;
+
+}
+
+
+.food08-pic{
+    width: 20%;
+    height: 403px;
+    display: inline-block;
+    position: absolute;
+    right: 70px;
+    top: 470px;
+    
+}
+
+.menu-name-8{
+    display: inline-block;
+    position: absolute;
+    top: 895px;
+    right: 150px;
+}
+
+
+.food09-pic{
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    top: 940px;
+    left: 100px;
+    
+}
+
+.menu-name-9{
+    display: inline-block;
+    position: absolute;
+    top: 1352px;
+    left: 170px;
+}
+
+
+ .food10-pic{
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    top: 940px;
+    left: 450px; 
+}
+
+.menu-name-10{
+    display: inline-block;
+    position: absolute;
+    top: 1352px;
+    left: 525px;
+}
+
+
+.food11-pic{
+    width: 42.5%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    top: 940px;
+    right: 70px;
+}
+
+.menu-name-11{
+    display: inline-block;
+    position: absolute;
+    top: 1352px;
+    right: 350px;
+}
+
+/* ................... */
+
+

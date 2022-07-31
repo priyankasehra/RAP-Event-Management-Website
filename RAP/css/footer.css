@@ -1,0 +1,77 @@
+.footer-container{
+    background-color:#197163;
+    color:#FFF;
+    position:relative;
+    font-size: 14px;
+    word-spacing: 2px;
+   
+}
+
+.footer-name{
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    font-weight: 400;
+    text-align: left;
+    margin-left:200px; 
+    padding-top: 100px;
+    line-height: .9;
+   letter-spacing: 5px;  
+
+}
+
+.first-letter{
+    font-size: 6rem;
+}   
+
+.footer-para{
+    font-family: 'EB Garamond', serif;
+    position: absolute;
+    width:50%;
+    right:100px;
+    top:100px;
+
+}
+
+.footer-link-social{
+    position: absolute;
+    right:450px;
+    top:160px;
+    word-spacing: 10px;
+}
+
+.footer-link{
+   padding-top: 15px;
+   padding-bottom: 15px;
+   word-spacing: 10px;
+   text-align: center;
+  
+}
+
+.footer{
+    padding-bottom: 30px; 
+    text-align: center; 
+}
+
+.single{
+    word-spacing: 1px;
+    
+}
+
+.footer-container a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+.footer-container a:hover{
+    color: #17D7A0
+}
+
+
+/* moto-formating */
+.moto{
+    font-size: 4rem;
+    font-family: 'Sacramento', cursive;
+    color: #B31459;
+    padding-bottom: 2%;
+    text-align: center;
+}

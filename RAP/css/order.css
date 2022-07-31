@@ -1,0 +1,223 @@
+/* ......body formating...... */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+
+body{
+    margin-top: 2%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163;
+    overflow: hidden; /* Hide scrollbar */   
+}
+/* ................... */
+
+h4{
+    margin-bottom: 10px;
+}
+
+
+/* budget-and-date-container formating */
+.budget-and-date-container{
+    color: #197163;
+    position: relative;
+    
+}
+
+.budget-pic{
+    width: 15%;
+    display: inline-block;
+    position: absolute;
+    left: 150px;
+}
+
+.budget-and-date-container2{
+    display: inline-block;
+    position: absolute;
+    left: 160px;
+    top: 110px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.budget-and-date_date{
+    margin-top: 1%;
+    margin-bottom: 200%;
+}
+
+.booking_date-from{
+   margin-bottom: 4%;
+}
+
+/* ................... */
+
+/* event-container formating */
+.event-container{
+    color: #197163;
+    position: relative;
+}
+
+.event-pic{
+    width: 15%;
+    display: inline-block;
+    position: absolute;
+    left: 485px;
+}
+
+.event-container2{
+    display: inline-block;
+    position: absolute;
+    left: 495px;
+    top: 110px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.event-noOfGuest{
+    margin-top: 1%;
+    margin-bottom: 200%;
+}
+/* ................... */
+
+/* venue-container formating */
+.venue-container{
+    color: #197163;
+    position: relative;
+}
+
+.venue-pic{
+    width: 15%;
+    display: inline-block;
+    position: absolute;
+    right: 475px;
+}
+
+.venue-container2{
+    display: inline-block;
+    position: absolute;
+    right: 445px;
+    top: 110px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+/* ................... */
+
+
+/* menu-container formating */
+.menu-container{
+    color: #197163;
+    position: relative;
+}
+
+.menu-pic{
+    width: 15%;
+    display: inline-block;
+    position: absolute;
+    right: 150px;
+}
+
+.menu-container2{
+    width: 12.5%;
+    display: inline-block;
+    position: absolute;
+    right: 170px;
+    top: 110px;
+    text-align: left;
+    margin-top: 10px;
+} 
+
+/* ................... */
+
+
+/*the container must be positioned relative:*/
+.custom-select {
+    position: relative;
+    font-family: Arial;
+    margin-left: 50px;
+  }
+  
+  .custom-select select {
+    display: none; /*hide original SELECT element:*/
+    
+  }
+  
+  .select-selected {
+    background-color: #197163;
+  }
+  
+  /*style the arrow inside the select element:*/
+  .select-selected:after {
+    position: absolute;
+    content: "";
+    top: 14px;
+    right: 10px;
+    width: 0;
+    height: 0;
+    border: 6px solid transparent;
+    border-color: #fff transparent transparent transparent;
+  }
+  
+  /*point the arrow upwards when the select box is open (active):*/
+  .select-selected.select-arrow-active:after {
+    border-color: transparent transparent #fff transparent;
+    top: 7px;
+  }
+  
+  /*style the items (options), including the selected item:*/
+  .select-items div,.select-selected {
+    color: #ffffff;
+    padding: 8px 16px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  /*style items (options):*/
+  .select-items {
+    position: absolute;
+    background-color: #B31459;
+   
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 99;
+  }
+  
+  /*hide the items when the select box is closed:*/
+  .select-hide {
+    display: none;
+  }
+  
+  .select-items div:hover, .same-as-selected {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+
+.lable-class{
+    display: inline-block;
+    position: absolute;
+    margin-top: 5px;   
+}
+
+label, legend{
+    font-weight:600;}
+
+button{
+    padding: 2px 10px 2px 10px;
+    background-color: #B31459;
+    border: black ;
+    color: #ffffff;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+

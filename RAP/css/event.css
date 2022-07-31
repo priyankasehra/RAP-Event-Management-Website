@@ -1,0 +1,270 @@
+/* backgroud-image */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.event-main-pic{
+    width: 100%;
+    padding-top: 60px; 
+}
+
+
+body{
+    margin-top: 2%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163 ;   
+}
+/* ................... */
+
+/* headings */
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.25rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+/* ................... */
+
+
+
+/* .paragraph{} */    
+.menue-button{
+   margin-bottom: 50px;
+   margin-top: 25px;
+}
+
+.para-exp{
+    color:#B31459;
+    text-decoration: underline;
+}
+/* ................... */
+
+/* hr */
+hr{
+    width: 50%;
+    margin: 3% auto 3% auto;
+    border-color: #bbb;
+    border-style: dotted;
+}
+/* ................... */
+
+/* image-format */
+.image-format{
+   position: relative;
+   padding-bottom: 90%;
+   font-size: .7rem;
+   letter-spacing: .8px;
+}
+/* ................... */
+
+/* event image-para formating */
+.event1-pic{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+.name-1{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    left: 185px;
+
+}
+
+.event2-pic{
+    width: 20%;
+   
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    
+}
+
+.name-2{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    left: 525px;
+}
+
+.event3-pic{
+    width: 20%;
+    
+    display: inline-block;
+    position: absolute;
+    right: 415px;
+    
+
+}
+
+.name-3{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    right: 490px;
+}
+
+.event4-pic{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    right: 70px;  
+}
+
+.name-4{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    right: 145px;
+   
+}
+
+
+.event5-pic{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 470px;  
+    height: 405px;
+}
+
+.name-5{
+    display: inline-block;
+    position: absolute;
+    top: 895px;
+    left: 185px;
+    
+
+}
+
+.event6-pic{
+    width: 20%;
+    height: 405px;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    top: 470px;
+    
+}
+
+.name-6{
+    display: inline-block;
+    position: absolute;
+    top: 895px;
+    left: 525px;
+}
+
+.event7-pic{
+    width: 20%;
+    height: 405px;
+    display: inline-block;
+    position: absolute;
+    right: 415px;
+    top: 470px;   
+}
+
+.name-7{
+    display: inline-block;
+    position: absolute;
+    top: 895px;
+    right: 490px;
+
+}
+
+
+.event8-pic{
+    width: 20%;
+    height: 405px;
+    display: inline-block;
+    position: absolute;
+    right: 70px;
+    top: 470px;
+    
+}
+
+.name-8{
+    display: inline-block;
+    position: absolute;
+    top: 895px;
+    right: 140px;
+}
+
+
+.event9-pic{
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    top: 940px;
+    left: 100px;
+    
+}
+
+.name-9{
+    display: inline-block;
+    position: absolute;
+    top: 1352px;
+    left: 185px;
+}
+
+
+ .event10-pic{
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    top: 940px;
+    left: 450px; 
+}
+
+.name-10{
+    display: inline-block;
+    position: absolute;
+    top: 1352px;
+    left: 500px;
+}
+
+
+.event11-pic{
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    top: 940px;
+    right: 415px;
+}
+
+.name-11{
+    display: inline-block;
+    position: absolute;
+    top: 1352px;
+    right: 490px;
+}
+
+
+
+.event12-pic{
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    top: 940px;
+    right: 70px;   
+} 
+
+.name-12{
+    display: inline-block;
+    position: absolute;
+    top: 1352px;
+    right: 180px;
+}
+/* ................... */
+
+

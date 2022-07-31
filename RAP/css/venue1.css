@@ -1,0 +1,145 @@
+
+
+/* body */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 2%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163 ;
+    
+}
+
+/* heading formating */
+h1{
+    margin-top: 6%;
+    font-family: 'Sacramento', cursive;
+     font-size: 3.25rem;
+     font-weight: 400;
+ }
+ 
+ p{
+     font-size: 1rem;
+     letter-spacing: 1px;
+     margin-bottom: 4%;
+ }
+ /* .......................... */
+
+/* .paragraph{} */    
+.services-button{
+    margin-bottom: 50px;
+    margin-top: 25px;
+ }
+
+ /* ................... */
+
+/* image-format */
+.venue1-image-format{
+    position: relative;
+    margin-bottom: 100%;
+    font-size: .9rem;
+    letter-spacing: .8px;
+ }
+ /* ................... */
+ 
+ 
+ /* menu image-para formating */
+ .venue1-01-pic{
+     width: 43.5%;
+     height: 400px;
+     display: inline-block;
+     position: absolute;
+     left: 100px;
+ }
+ 
+ .venue1-02-pic{
+     width: 43.5%;
+     height: 400px;
+     display: inline-block;
+     position: absolute;
+     right: 70px;
+ }
+ 
+ .venue1-03-pic{
+    width: 30%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 425px;  
+ }
+ 
+ .venue1-04-pic{
+    width: 25.7%;
+    height: 565px;
+     display: inline-block;
+     position: absolute;
+     left: 580px; 
+     top: 425px; 
+ }
+ 
+ .venue1-05-pic{
+    width: 30%;
+    display: inline-block;
+    position: absolute;
+    right: 70px; 
+    top: 425px; 
+ }
+
+ .venue1-06-pic{
+    width: 30%;
+    height: 285px;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 705px; 
+     
+ }
+ 
+ .venue1-07-pic{
+    width: 30%;
+    height: 285px;
+    display: inline-block;
+    position: absolute;
+    right: 70px; 
+    top: 705px; 
+ }
+
+ .venue1-08-pic{
+    width: 43.5%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 1015px;
+}
+
+.venue1-09-pic{
+    width: 43.5%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    right: 70px;
+    top: 1015px;
+}
+ /* ................... */
+
+
+/* footer-pic formatting */
+.footer-pic{
+    width: 100%;  
+}
+
+/* moto-formating */
+.moto{
+    font-size: 4rem;
+    font-family: 'Sacramento', cursive;
+    color: #B31459; 
+    margin-bottom: 2%; 
+}
+  /* ................... */

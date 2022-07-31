@@ -1,0 +1,258 @@
+/* backgroud-image */
+.banner-area{
+    margin-top: 70px; 
+}
+.content-area{
+    height: 100%;
+    display: flex;
+    position: absolute;
+    top: 500px;
+    right: 200px;       
+}
+
+.content{
+    text-align: center;
+}
+
+.content h1{
+    font-size: 100px;
+    color: #fff;
+    font-family: 'Sacramento', cursive;
+    line-height: .9;
+    font-weight: 50;
+    
+}
+/* ................... */
+
+/* body */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 2%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163 ;
+    
+}
+
+/* headings */
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.25rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+/* ................... */
+
+
+/* .paragraph{} */    
+.services-button{
+    margin-bottom: 50px;
+    margin-top: 25px;
+ }
+
+ .para-exp{
+    color:#B31459;
+    text-decoration: underline;
+}
+ /* ................... */
+ 
+
+/* hr */
+hr{
+    width: 50%;
+    margin: 3% auto 3% auto;
+    border-color: #bbb;
+    border-style: dotted;
+}
+/* ................... */
+
+/* image-format */
+.venue-image-format{
+    position: relative;
+    padding-bottom: 90%;
+    font-size: .9rem;
+    letter-spacing: .8px;
+ }
+ /* ................... */
+ 
+ 
+ /* menu image-para formating */
+ .venue01-pic{
+     width: 42.5%;
+     height: 400px;
+     display: inline-block;
+     position: absolute;
+     left: 100px;
+ }
+ 
+ .venue-name-1{
+     display: inline-block;
+     position: absolute;
+     top: 410px;
+     left: 320px;
+ 
+ }
+ 
+ .venue02-pic{
+     width: 42.5%;
+     height: 400px;
+     display: inline-block;
+     position: absolute;
+     right: 70px;
+ }
+ 
+ .venue-name-2{
+     display: inline-block;
+     position: absolute;
+     top: 410px;
+     right: 315px;
+ }
+ 
+ .venue03-pic{
+    width: 42.5%;
+    height: 403px;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 480px;  
+ }
+ 
+ .venue-name-3{
+     display: inline-block;
+     position: absolute;
+     top: 890px;  
+     left: 320px;
+ }
+ 
+ .venue04-pic{
+     width: 20%;
+     height: 403px;
+     display: inline-block;
+     position: absolute;
+     right: 415px; 
+     top: 480px; 
+ }
+ 
+ .venue-name-4{
+    display: inline-block;
+    position: absolute;
+    top: 890px;  
+    right: 485px;
+    
+ }
+ 
+ 
+ .venue05-pic{
+    width: 20%;
+    height: 403px;
+    display: inline-block;
+    position: absolute;
+    right: 70px; 
+    top: 480px; 
+ }
+ 
+ .venue-name-5{
+    display: inline-block;
+    position: absolute;
+    top: 890px;  
+    right: 135px;
+ }
+ 
+ .venue06-pic{
+     width: 20%;
+     height: 405px;
+     display: inline-block;
+     position: absolute;
+     left: 100px;
+     top: 950px;
+     
+ }
+ 
+ .venue-name-6{
+     display: inline-block;
+     position: absolute;
+     top: 1362px;
+     left: 170px;
+ }
+ 
+ .venue07-pic{
+    width: 20%;
+    height: 403px;
+    display: inline-block;
+    position: absolute;
+    top: 950px;
+    left: 450px;    
+ }
+ 
+ .venue-name-7{
+     display: inline-block;
+     position: absolute;
+     top: 1362px;
+     left: 515px;
+ }
+ 
+ 
+ .venue08-pic{
+     width: 42.5%;
+     height: 400px;
+     display: inline-block;
+     position: absolute;
+     right: 70px;
+     top: 950px;
+     
+ }
+ 
+ .venue-name-8{
+     display: inline-block;
+     position: absolute;
+     top: 1362px;
+     right: 310px;
+ }
+ 
+ 
+ .venue09-pic{
+    width: 42.5%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 1420px;
+    
+ }
+ 
+ .venue-name-9{
+     display: inline-block;
+     position: absolute;
+     top: 1825px;
+     left: 310px;
+ }
+ 
+ 
+  
+ 
+ .venue10-pic{
+    width: 42.5%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    right: 70px;
+    top: 1420px;
+    
+ }
+ 
+ .venue-name-10{
+     display: inline-block;
+     position: absolute;
+     top: 1825px;
+     right: 330px;
+ }
+ 
+ /* ................... */
+ 
+

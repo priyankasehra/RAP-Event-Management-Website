@@ -1,0 +1,119 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    margin-top: 2%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163 ;   
+}
+
+
+
+
+/* headings */
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.25rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+h5{
+    letter-spacing: 1px;
+}
+
+h6{
+    letter-spacing: 1px;
+    color: #57CC99;
+}
+/* ................... */
+
+
+
+/* formating about main picture */
+.about-main-pic{
+    margin-top: 4%;
+    width: 100%;
+    height: 550px;
+
+
+}
+/* ......................... */
+
+
+/* para fomating */
+.abt-para{
+    margin-left: 125px;
+    margin-right: 125px;
+}
+
+.abt-para2{
+    margin: 2%  125px 2% 125px;
+}
+
+.abt-para4{
+    margin: 1%  125px;
+}
+/* .......................... */
+
+/* hr */
+hr{
+    width: 50%;
+    margin: 3% auto 3% auto;
+    border-color: #bbb;
+    border-style: dotted;
+}
+
+.hr2{
+   margin-top: 18%;
+}
+/* ................... */
+
+
+/* image formatiing */
+.abt-img-pic{
+    position: relative;
+    margin-top: 2%;
+}
+
+.about-pic1{
+    width: 18%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+.about-pic2{
+    width: 16%; 
+    display: inline-block;
+    position: absolute;
+    left: 390px;
+}
+
+.about-pic3{
+    width: 15%;    
+    display: inline-block;
+    position: absolute;
+    left: 700px;
+}
+
+.about-pic4{
+    width: 12%;
+    display: inline-block;
+    position: absolute;
+    right: 340px; 
+}
+
+.about-pic5{
+ width: 11%;
+ display: inline-block;
+ position: absolute;
+ right: 120px; 
+}

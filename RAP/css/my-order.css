@@ -1,0 +1,167 @@
+/* ......body formating...... */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+
+body{
+    margin-top: 1%;
+    text-align: center;
+    background-color: #EEEEEE;
+    font-family: 'EB Garamond', serif;
+    color: #197163 ;   
+}
+/* ................... */
+
+
+/* order-container formating */
+.order-container{
+   
+    position: relative;
+}
+
+.order-pic{
+    width: 15%;
+    display: inline-block;
+    position: absolute;
+    left: 315px;
+    top: 10px;
+    border: 3px solid #197163; 
+}
+
+.order-container h2{
+    display: inline-block;
+    position: absolute;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.25rem;
+    font-weight: 400;
+    left: 180px;
+    top: 140px;
+    background-color: #FFCCD2;
+    color: #197163; 
+    padding-bottom: 0;
+    width: 33.95%;
+}
+
+.order-container p{
+    display: inline-block;
+    position: absolute;
+    left: 180px;
+    top: 215px;
+    text-align: left;
+    color: #B31459; 
+    padding-left : 2%;
+    padding-bottom: 1%;
+    font-size: 1rem;
+    background-color: #FFCCD2; 
+    width: 33.95%;
+}
+
+.order-descp{
+    width: 33.95%;
+    display: inline-block;
+    position: absolute;
+    left: 180px;
+    top:300px;
+    text-align: left;
+    color: #B31459; 
+    font-size: 1.3rem;
+    background-color: #FFCCD2; 
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 5.5%;
+}
+
+/* ................... */
+
+
+/* bill-container formating */
+.bill-container{
+    position: relative;
+    
+}
+
+.bill-pic{
+    width: 15%;
+    display: inline-block;
+    position: absolute;
+    right: 315px;
+    top: 10px;
+    border: 3px solid #197163; 
+}
+
+.bill-container h2{
+    display: inline-block;
+    position: absolute;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.25rem;
+    font-weight: 400;
+    right: 180px;
+    top: 140px;
+    background-color: #FFCCD2;
+    color: #197163; 
+    padding-bottom: 0;
+    width: 33.95%;
+}
+
+.bill-container p{
+    display: inline-block;
+    position: absolute;
+    right: 180px;
+    top: 215px;
+    text-align: left;
+    color: #B31459; 
+    padding-left : 2%;
+    padding-bottom: 1%;
+    font-size: 1rem;
+    background-color: #FFCCD2; 
+    width: 33.95%;
+}
+
+
+
+.bill-descp{
+    width: 33.95%;
+    display: inline-block;
+    position: absolute;
+    right: 180px;
+    top:325px;
+    text-align: left;
+    color: #B31459; 
+    font-size: 1.3rem;
+    background-color: #FFCCD2; 
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.total-amount{
+    width: 33.95%;
+    display: inline-block;
+    position: absolute;
+    right: 180px;
+    top:455px;
+    text-align: left;
+    color: #B31459; 
+    font-size: 1.3rem;
+    background-color: #FFCCD2; 
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+/* ................... */
+
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    font-weight: 400;
+    position:absolute;
+    top: 610px;
+    left: 630px;
+    padding-bottom: 2px;
+}
+
